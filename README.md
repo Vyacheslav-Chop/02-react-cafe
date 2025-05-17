@@ -1,3 +1,19 @@
+# ☕ React Cafe
+
+A small learning project based on the React + TypeScript + Vite template.
+This is a simple cafe page mockup that I use to practice working with components, styles, and TypeScript.
+
+🔗 Live version: [https://02-react-cafe-mu.vercel.app](https://02-react-cafe-mu.vercel.app)
+
+---
+
+## 🔧 Tech Stack
+
+- React
+- TypeScript
+- Vite
+- ESLint
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
